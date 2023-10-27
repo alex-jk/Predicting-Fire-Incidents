@@ -1,1 +1,1 @@
-"# Predicting Fire Incidents" 
+Models to predict the when and where components of US fire incidents. Linear regression model predicting when a fire incident would occur, and a neural network predicting where in the US a fire incident would occur.
